@@ -1,0 +1,6 @@
+# For students running the notebooks locally. On Colab everything is preinstalled.
+torch>=2.1
+numpy
+matplotlib
+transformers  # only needed for the optional stretch section S3
+jupyter
