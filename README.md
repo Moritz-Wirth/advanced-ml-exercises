@@ -6,6 +6,8 @@ winter term 2026/27).
 Each lecture block comes with one notebook. We work through it together in the exercise session (Thursdays, 10–12,
 room 0303c). The exercises are not graded, but the oral examination assumes you have done them.
 
+Solutions will be provided after the exercises.
+
 ## Exercises
 
 | # | Topic | Session | Notebook | Solution |
