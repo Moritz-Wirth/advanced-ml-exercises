@@ -3,18 +3,22 @@
 Exercise notebooks for the lecture **Advanced Methods to Machine Learning** (Universität Kassel / Fraunhofer IEE,
 winter term 2026/27).
 
-Each lecture block comes with one notebook. We work through it together in the exercise session (Thursdays, 10–12,
-room 0303c). The exercises are not graded, but the oral examination assumes you have done them.
-
-Solutions will be provided after the exercises.
+Each lecture block comes with one notebook. We work through it together in the exercise sessions (Thursdays, 10–12,
+room 0303c); a notebook can span more than one session. The exercises are not graded, but the oral examination
+assumes you have done them.
 
 ## Exercises
 
 | # | Topic | Session | Notebook | Solution |
 |---|---|---|---|---|
-| 02 | Transformers from scratch | Thu 29.10.2026 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Moritz-Wirth/advanced-ml-exercises/blob/main/exercises/02_transformer/transformer_exercise.ipynb) | after the session |
+| 02 | Transformers from scratch, part 1 (sections 1–3) | Thu 29.10.2026 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Moritz-Wirth/advanced-ml-exercises/blob/main/exercises/02_transformer/transformer_exercise.ipynb) | [sections 1–3](https://colab.research.google.com/github/Moritz-Wirth/advanced-ml-exercises/blob/main/exercises/02_transformer/transformer_solution_partial.ipynb) |
+| 03 | Transformers from scratch, part 2 (sections 4–7) | Thu 05.11.2026 | same notebook as 02 | after the session |
 
-Solutions are added here after each session.
+Solutions are added here after each session. Exercises 02 and 03 share one notebook: the solution for sections 1–3
+is available now, the full solution follows after 05.11.
+
+**Already started exercise 02 in Colab?** Keep working in your saved copy. The gaps did not change; the update only
+removed the "ahead of the lecture" notes, since the lecture has now covered sections 4–6.
 
 ## Getting started
 
